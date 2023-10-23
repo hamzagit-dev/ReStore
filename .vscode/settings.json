@@ -1,0 +1,9 @@
+{
+  "dotnet.defaultSolution": "ReStore.sln",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  }
+}
